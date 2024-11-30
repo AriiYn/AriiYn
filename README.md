@@ -22,10 +22,9 @@
   </div>
   <ul>
     <li> I am currently a student majoring in Software Engineering.</li>
-    <br>
       <li> My Hobbies :
-        <br>
         <ul>
+          <br>
           <li> Making Videos for Sosmed </li>
           <li> Studying </li>
           <li> Watching Videos and Movies </li>
