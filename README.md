@@ -24,6 +24,7 @@
     <li> I am currently a student majoring in Software Engineering.</li>
     <br>
       <li> My Hobbies :
+        <br>
         <ul>
           <li> Making Videos for Sosmed </li>
           <li> Studying </li>
@@ -39,7 +40,7 @@
    </h3>
   </div>
    <p align = "center">
-     <a href = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp" width="40" height="40" style="max-width:100%;" title = "C#"></a>
+     <a href = "https://en.wikipedia.org/wiki/laravel_(programming_language)" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" style="max-width:100%;" title = "Laravel"></a>
      <a href = "https://en.wikipedia.org/wiki/C%2B%2B" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="40" height="40" style="max-width:100%;" title = "C++"></a>
      <a href = "https://en.wikipedia.org/wiki/Python_(programming_language)" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width:100%;" title = "Python"></a>
      <a href = "https://en.wikipedia.org/wiki/JavaScript" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;" title = "JavaScript"></a>
