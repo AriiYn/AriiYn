@@ -6,9 +6,22 @@
 <body>
   <h2> Tentang Saya</h2>
 <p>
-  <div id = "hello-world">
-    My name is David Garcia Saragih, I am an Indonesian. I was born on 13 September 2005. I am always interested in taking part new projects and gaining new skills. 
-  </div> <!-- hello-world -->
+  <br/>
+
+- Name **Nuryana N**
+- Live in **Sumedang, Indonesia**
+- Studying [**Front-End Developer**]
+- Job : SMK Teacher, Freelancer, Joki Tugas Teknik Informatika, Developer
+- Good with **HTML** , **CSS** , **Javascript** , **PHP**, **Tailwind**,  **CodeIgniter**
+  
+- Understand Bahasa Sunda, Indonesia & English
+
+  <br/>
+  <br/>
+   <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuryanaNn&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&bg_color=22272E&text_bold=true" align=right />
+
 <p>
   <div id = "alittle-aboutme">
     <h2>
