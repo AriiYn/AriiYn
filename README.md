@@ -6,7 +6,7 @@
 <div>
 <img width="300" src="635d2b63542928b152a4a903e9fd978f.png" align=right />
 <body>
-  <h1> Hello and Welcome :) </h1>
+  <h2> Tentang Saya</h2>
 <p>
   <div id = "hello-world">
     My name is David Garcia Saragih, I am an Indonesian. I was born on 13 September 2005. I am always interested in taking part new projects and gaining new skills. 
