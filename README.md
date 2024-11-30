@@ -21,10 +21,11 @@
     </h2>
   </div>
   <ul>
-    <li> I am currently attending <a href="https://www.umn.ac.id/" style="text-decoration: none;" target="_blank">Rekayasa Perangkat Lunak</a> majoring in Informatics. </li>
+    <li> I am currently a student majoring in Software Engineering.</li>
+    <br>
       <li> My Hobbies :
         <ul>
-          <li> Making Videos for Youtube </li>
+          <li> Making Videos for Sosmed </li>
           <li> Studying </li>
           <li> Watching Videos and Movies </li>
         </ul>
