@@ -9,7 +9,7 @@
 
 - Name **M Fakhri Afkar**
 - Live in **Depok, Indonesia**
-- Studying [ **Front-End Developer** ]
+- Studying [ **WEB Developer** ]
   
 - Understand Bahasa Sunda, Indonesia & English
 
