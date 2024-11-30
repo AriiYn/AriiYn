@@ -9,7 +9,7 @@
 
 - Name **M Fakhri Afkar**
 - Live in **Depok, Indonesia**
-- Studying [**Front-End Developer**]
+- Studying [ **Front-End Developer** ]
   
 - Understand Bahasa Sunda, Indonesia & English
 
@@ -41,8 +41,6 @@
   </div>
    <p align = "center">
      <a href = "https://en.wikipedia.org/wiki/laravel_(programming_language)" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" style="max-width:100%;" title = "Laravel"></a>
-     <a href = "https://en.wikipedia.org/wiki/C%2B%2B" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="40" height="40" style="max-width:100%;" title = "C++"></a>
-     <a href = "https://en.wikipedia.org/wiki/Python_(programming_language)" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width:100%;" title = "Python"></a>
      <a href = "https://en.wikipedia.org/wiki/JavaScript" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;" title = "JavaScript"></a>
      <a href = "https://en.wikipedia.org/wiki/HTML" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="max-width:100%;" title = "HTML"></a>
      <a href = "https://en.wikipedia.org/wiki/CSS" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="max-width:100%;"title = "CSS"></a>
