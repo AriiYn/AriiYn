@@ -44,6 +44,9 @@
      <a href = "https://en.wikipedia.org/wiki/HTML" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="max-width:100%;" title = "HTML"></a>
      <a href = "https://en.wikipedia.org/wiki/CSS" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="max-width:100%;"title = "CSS"></a>
      <a href = "https://en.wikipedia.org/wiki/PHP" target = "_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="max-width:100%;" title = "PHP"></a>
+     <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width:100%;" title = "Python"></a>
+     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="max-width:100%;" title = "C++"></a>
+      <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="max-width:100%;" title = "Java"></a>
    </p>
   <br>
 </body>
